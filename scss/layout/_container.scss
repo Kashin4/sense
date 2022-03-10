@@ -15,7 +15,23 @@
   height: 100px;
   display: flex;
 }
+.hero {
+  background-color: #f4f8ff;
+  width: 100vw;
+  background-image: url(../images/background-hero2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  overflow-x: hidden;
 
+
+}
+
+.container__hero {
+  margin: 0 auto;
+  width: 1110px;
+  height: 1000px;
+}
 .meditation {
   height: 700px;
   background: #f4f8ff;
