@@ -1,0 +1,84 @@
+.music__theme {
+  width: 530px;
+  padding-top: 59px;
+  height: 70px;
+  margin: auto;
+  font-size: 54px;
+  line-height: 130%;
+  text-align: center;
+  color: #000000;
+}
+.music__text {
+  margin: auto;
+  margin-top: 22px;
+  width: 1105px;
+  height: 62px;
+  font-size: 24px;
+  line-height: 130%;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+}
+.music__wrapper {
+  margin: auto;
+  margin-top: 70px;
+  height: 680px;
+  display: flex;
+  justify-content: space-between;
+}
+.music__audio {
+  width: 924px;
+}
+.music__img {
+  width: 696px;
+  height: 679px;
+}
+.music__audio {
+  width: 659px;
+  height: 680px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.audio {
+  width: 650px;
+  height: 1230px;
+  background-image: url(/images/audio-background.png);
+  background-position: 50%;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.music__image {
+  width: 696px;
+  height: 679px;
+}
+.audio__theme {
+  width: 308px;
+  height: 47px;
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 47px;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  top: 30%;
+  left: 20%;
+}
+.audio__text {
+  height: 37px;
+  font-size: 24px;
+  line-height: 130%;
+  color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
+
+.audio__play {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 22%;
+  left: 75%;
+}

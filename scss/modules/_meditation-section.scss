@@ -1,0 +1,73 @@
+
+
+.meditation__card-meditation {
+  background-image: url(/images/card-meditation.png);
+  width: 445px;
+  height: 560px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.meditation__card-yoga {
+  background-image: url(/images/card-yoga.png);
+  width: 445px;
+  height: 560px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.meditation__card-sound {
+  background-image: url(/images/card-sound.png);
+  width: 445px;
+  height: 560px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card__ico {
+  width: 100px;
+  height: 100px;
+  margin-top: 49px;
+}
+
+.card__theme {
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 47px;
+  text-align: center;
+  color: #000000;
+  margin-top: 20px;
+}
+
+.card__text {
+  width: 324px;
+  height: 92px;
+  font-size: 18px;
+  line-height: 130%;
+  text-align: center;
+  color: #000000;
+  margin-top: 20px;
+}
+.card__button {
+  width: 210px;
+  height: 55px;
+  background: linear-gradient(180deg, #256d93a1 0%, #157b96ab 100%);
+  box-shadow: 0px 13px 28px rgba(26, 127, 114, 0.2);
+  border-radius: 30px;
+  font-size: 24px;
+  line-height: 130%;
+  text-align: center;
+  margin-top: 60px;
+  cursor: pointer;
+}

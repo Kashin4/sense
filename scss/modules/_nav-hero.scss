@@ -1,0 +1,39 @@
+.container__nav-hero {
+  margin: 0 auto;
+  width: 1600px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo2 {
+  width: 210px;
+  height: 100px;
+  margin-left: 15px;
+}
+
+.hero__menu {
+  display: flex;
+  width: 885px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.hero__link {
+  text-decoration: none;
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 41px;
+  color: #000000;
+  width: 41px;
+}
+
+.hero__link:hover{
+    font-family: Heebo;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 47px;
+color: #5fa2d9;;
+}

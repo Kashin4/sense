@@ -1,0 +1,102 @@
+.best__theme {
+  margin: auto;
+  width: 620px;
+  height: 70px;
+  font-size: 54px;
+  line-height: 130%;
+  text-align: center;
+  color: #000000;
+  padding-top: 154px;
+}
+.best__text {
+  margin: auto;
+  margin-top: 22px;
+  width: 1105px;
+  height: 62px;
+  font-size: 24px;
+  line-height: 130%;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.best__wrapper {
+  width: 1685px;
+  height: 800px;
+  display: flex;
+  margin-top: 69px;
+  justify-content: space-between;
+}
+
+.best__benefits-left {
+  width: 601px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.best__benefit-left {
+  width: 601px;
+  height: 205px;
+  background-image: url(/images/best-card-left.png);
+  background-repeat: no-repeat;
+}
+
+.best__benefits-img {
+  width: 339px;
+  height: 802px;
+}
+.best__benefits-right {
+  width: 597px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.best__benefit-right {
+  width: 601px;
+  height: 205px;
+  background-image: url(/images/best-card-right.png);
+  background-repeat: no-repeat;
+}
+.best__benefit-left-theme {
+  width: 260px;
+  height: 47px;
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 47px;
+  text-align: right;
+  color: rgba(0, 0, 0, 0.8);
+  margin: auto;
+  margin-right: 35px;
+  margin-top: 25px;
+}
+.best__benefit-left-text {
+  width: 445px;
+  font-size: 24px;
+  line-height: 130%;
+  text-align: right;
+  color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  margin-right: 35px;
+}
+.best__benefit-right-theme {
+  width: 260px;
+  height: 47px;
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 47px;
+  color: rgba(0, 0, 0, 0.8);
+  margin: auto;
+  margin-left: 35px;
+  margin-top: 25px;
+}
+.best__benefit-right-text {
+  width: 445px;
+  font-size: 24px;
+  line-height: 130%;
+  color: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  margin-left: 35px;
+}

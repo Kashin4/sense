@@ -1,0 +1,85 @@
+
+.practice__theme {
+  margin: auto;
+  width: 706px;
+  height: 140px;
+  font-size: 54px;
+  line-height: 130%;
+  text-align: center;
+  color: #000000;
+
+}
+.practice__text {
+  margin: auto;
+  margin-top: 22px;
+  width: 1105px;
+  height: 62px;
+  font-size: 24px;
+  line-height: 130%;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.practice__wrapper {
+  margin: auto;
+  display: flex;
+  margin-top: 48px;
+  justify-content: space-between;
+}
+.practice__img {
+  width: 745px;
+  height: 594px;
+  margin-top: 24px;
+}
+.practice__advantage-wrapper {
+  width: 717px;
+  height: 732px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  z-index: 10;
+}
+.practice__advantage {
+  width: 717px;
+  height: 233px;
+
+}
+
+.practice__advantage:hover {
+      background-image: url(/images/advantage-bg.png);
+  background-position-y: 41%;
+  background-position-x: 83%;
+  background-size: 106%;
+  background-repeat: no-repeat;
+}
+.practice__advantage-theme {
+  width: 250px;
+  height: 47px;
+  margin-left: 38px;
+  margin-top: 35px;
+  margin-bottom: 10px;
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 47px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.practice__advantage-text {
+  width: 565px;
+  height: 103px;
+  margin-left: 40px;
+  text-align: justify;
+  font-size: 24px;
+  line-height: 130%;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.practice__img-bg{
+    position: absolute;
+    width: 408px;
+    height: 813px;
+    top: 25%;
+    left: 80%;
+}

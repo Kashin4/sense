@@ -1,0 +1,42 @@
+.logo3 {
+  margin: 0 auto;
+  width: 210px;
+  height: 100px;
+  padding-top: 113px;
+}
+
+.footer__menu {
+  margin: auto;
+  width: 522px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+}
+
+.footer__link {
+  text-decoration: none;
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 41px;
+  color: #000000;
+}
+.social {
+    width: 835px;
+    margin-top: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.insta {
+  width: 55px;
+  height: 55px;
+}
+.google {
+  width: 180px;
+  height: 55px;
+}
+.apple {
+  width: 180px;
+  height: 55px;
+}
