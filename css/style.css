@@ -48,7 +48,7 @@
 .music {
   height: 1056px;
   background: #f4f8ff;
-  background-image: url(/images/music-background.png);
+  background-image: url(../images/music-background.png);
   background-repeat: no-repeat;
   background-position: 50%;
 }
@@ -61,7 +61,7 @@
 .best {
   height: 1393px;
   background: #f4f8ff;
-  background-image: url(/images/best-background.png);
+  background-image: url(../images/best-background.png);
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
@@ -76,7 +76,7 @@
 .transform {
   height: 1648px;
   background: #f4f8ff;
-  background-image: url(/images/background-transform.png);
+  background-image: url(../images/background-transform.png);
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
@@ -91,7 +91,7 @@
 .footer {
   height: 425px;
   background: #f4f8ff;
-  background-image: url(/images/footer-background.png);
+  background-image: url(../images/footer-background.png);
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: cover;
@@ -1450,7 +1450,7 @@ h2 span:nth-child(13) {
 }
 
 .meditation__card-meditation {
-  background-image: url(/images/card-meditation.png);
+  background-image: url(../images/card-meditation.png);
   width: 445px;
   height: 560px;
   background-repeat: no-repeat;
@@ -1462,7 +1462,7 @@ h2 span:nth-child(13) {
 }
 
 .meditation__card-yoga {
-  background-image: url(/images/card-yoga.png);
+  background-image: url(../images/card-yoga.png);
   width: 445px;
   height: 560px;
   background-repeat: no-repeat;
@@ -1474,7 +1474,7 @@ h2 span:nth-child(13) {
 }
 
 .meditation__card-sound {
-  background-image: url(/images/card-sound.png);
+  background-image: url(../images/card-sound.png);
   width: 445px;
   height: 560px;
   background-repeat: no-repeat;
@@ -1574,7 +1574,7 @@ h2 span:nth-child(13) {
 }
 
 .practice__advantage:hover {
-  background-image: url(/images/advantage-bg.png);
+  background-image: url(../images/advantage-bg.png);
   background-position-y: 41%;
   background-position-x: 83%;
   background-size: 106%;
@@ -1663,7 +1663,7 @@ h2 span:nth-child(13) {
 .audio {
   width: 650px;
   height: 1230px;
-  background-image: url(/images/audio-background.png);
+  background-image: url(../images/audio-background.png);
   background-position: 50%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -1747,7 +1747,7 @@ h2 span:nth-child(13) {
 .best__benefit-left {
   width: 601px;
   height: 205px;
-  background-image: url(/images/best-card-left.png);
+  background-image: url(../images/best-card-left.png);
   background-repeat: no-repeat;
 }
 
@@ -1766,7 +1766,7 @@ h2 span:nth-child(13) {
 .best__benefit-right {
   width: 601px;
   height: 205px;
-  background-image: url(/images/best-card-right.png);
+  background-image: url(../images/best-card-right.png);
   background-repeat: no-repeat;
 }
 
@@ -1852,7 +1852,7 @@ h2 span:nth-child(13) {
 .transform__type-img-one {
   width: 703px;
   height: 554px;
-  background-image: url(/images/tr-img-one.png);
+  background-image: url(../images/tr-img-one.png);
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 100%;
@@ -1891,7 +1891,7 @@ h2 span:nth-child(13) {
 .transform__type-img-two {
   width: 765px;
   height: 532px;
-  background-image: url(/images/tr-img-two.png);
+  background-image: url(../images/tr-img-two.png);
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 100%;
