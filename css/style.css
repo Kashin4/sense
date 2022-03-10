@@ -336,7 +336,7 @@ article.single-toggle .drop:nth-child(10) {
   top: 22%;
   left: 75%;
   z-index: 10;
-  background-image: url(/images/ico/button_play-music2.png);
+  background-image: url(../images/ico/button_play-music2.png);
   background-repeat: no-repeat;
 }
 
